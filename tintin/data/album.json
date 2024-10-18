@@ -1,0 +1,227 @@
+[
+    {
+        "numero": 1,
+        "titre": "Tintin au pays des Soviets",
+        "parution": 1930,
+        "image": "tintin-au-pays-des-soviets.jpg",
+        "parutionEnCouleur": 2017,
+        "resume": "Nous sommes le 10 janvier 1929, à Bruxelles. Accompagné de son chien Milou, un tout jeune reporter monte dans le train à destination de Moscou. Pour Tintin, c'est le début d'une grande aventure. Pour Hergé, c'est le vrai début de sa carrière. Les Aventures de Tintin, reporter du Petit Vingtième au lieu des Soviets paraîtront sous forme d'album en 1930. Cette année marque la naissance d'un mythe qui n'est pas près de s'éteindre, et les premiers signes d'une troublante confrontation entre la fiction et la réalité.",
+        "lieu": "Russie",
+        "gps": "64.6863136,97.7453061"
+    },
+    {
+        "numero": 2,
+        "titre": "Tintin au Congo",
+        "parution": 1931,
+        "image": "tintin-au-congo.jpg",
+        "parutionEnCouleur": 1946,
+        "resume": "Les Aventures de Tintin, reporter du Petit Vingtième au Congo (1931) est le reflet d'une époque coloniale et paternaliste. Pour ces nouvelles aventures, Hergé improvise encore le récit, mais plus pour longtemps. À peine revient-il d'URSS que Tintin se rend en Afrique. Devenu sorcier au royaume de Babaoro'm, Tintin déjouera les pièges d'une bande de gangsters qui souhaitaient contrôler la production de diamant au Congo. L'Afrique, représentée de manière naïve, reflète l'esprit paternaliste d'une Belgique colonialiste au début des années 1930.",
+        "lieu": "Congo",
+        "gps": "-2.9814344,23.8222636"
+    },
+    {
+        "numero": 3,
+        "titre": "Tintin en Amérique",
+        "parution": 1932,
+        "image": "tintin-en-amerique.jpg",
+        "parutionEnCouleur": 1946,
+        "resume": "Dans Tintin en Amérique (1932), le héros confirme sa vocation de redresseur de torts, en s'opposant au mafioso Al Capone, aux gangsters de Chicago et aux fripouilles de tout acabit. Déjà, Hergé témoigne d'une vision généreuse du monde, stigmatisant par exemple des Blancs pour leurs comportements envers les Indiens Peaux-Rouges. La renommée de Tintin s'étend au-delà de l'Atlantique. Si bien que lorsqu'il arrive à Chicago, en pleine prohibition, tous les bandits et malfaiteurs associés lui préparent une réception des moins confortables. Tintin devra user de tout son courage et de toute son intelligence pour survivre !",
+        "lieu": "Etats-Unis d'Amérique",
+        "gps": "39.7837304,-100.445882"
+    },
+    {
+        "numero": 4,
+        "titre": "Les Cigares du pharaon",
+        "parution": 1934,
+        "image": "les-cigares-du-pharaon.jpg",
+        "parutionEnCouleur": 1955,
+        "resume": "Ce quatrième épisode de la série, premier album paru exclusivement chez Casterman (les précédents étaient estampillés Éditions du Petit Vingtième) sous le titre Les aventures de Tintin reporter en Orient, Les Cigares du Pharaon, est sorti à l'automne 1934. Tintin part sur les traces de trafiquants d'opium à travers l'Égypte et l'Inde. Port-Saïd, Le Caire, les pyramides, les tombeaux des pharaons, la mer Rouge, la jungle et ses éléphants... Tintin va vivre des aventures peu banales : il tente d'échapper au poison qui rend fou, rencontre un archéologue extravagant, un Maharadja en danger de mort...",
+        "lieu": "Egypte",
+        "gps": "26.2540493,29.2675469"
+    },
+    {
+        "numero": 5,
+        "titre": "Le Lotus bleu",
+        "parution": 1936,
+        "image": "le-lotus-bleu.jpg",
+        "parutionEnCouleur": 1946,
+        "resume": "Dans Le Lotus bleu (1936) Tintin s'engage à démanteler le trafic d'opium international qui sévit dans un lieu mythique certes, mais dont il ignore tout, la Chine. À l'aube de ce récit, la généreuse ambition de Tintin semble démesurée. Aidé par la seule société secrète, Les Fils du Dragon, et par son ami Tchang, rencontré tardivement, il parvient à surmonter tous les obstacles et ruiner les perfides machinations de ses nombreux ennemis.",
+        "lieu": "Chine",
+        "gps": "35.000074,104.999927"
+    },
+    {
+        "numero": 6,
+        "titre": "L'Oreille cassée",
+        "parution": 1937,
+        "image": "l-oreille-cassee.jpg",
+        "parutionEnCouleur": 1943,
+        "resume": "L'Oreille Cassée (1937) est une course poursuite palpitante. Tintin s'embarque pour l'Amérique du Sud afin de récupérer un fétiche volé. Là-bas s'opposent toutes sortes d'intérêts : militaires, économiques, la guerre du Gran Chaco venant d'opposer, trois ans durant, la Bolivie et le Paraguay. Une statuette Arumbaya est volée... puis restituée à son musée. Mais un détail révèle à Tintin que ce n'est pas l'original qui a été rendu, mais une simple réplique. Quel mystère cache donc cette statuette pour que l'on veuille en maquiller le vol ? Tintin s'embarque pour l'Amérique du Sud où, croit-il, se trouve la clef de cette énigme.",
+        "lieu": "Nuevo Rico (Bolivie)",
+        "gps": "-17.0568696,-64.9912286"
+    },
+    {
+        "numero": 7,
+        "titre": "L'Île Noire",
+        "parution": 1938,
+        "image": "l-ile-noire.jpg",
+        "parutionEnCouleur": 1943,
+        "resume": "De retour d'Amérique du Sud, Tintin s'embarque dans une aventure britannique palpitante, rythmée par d'incessants rebondissements. Pour la première fois et non la dernière, Tintin s'oppose au fourbe Docteur Müller. Ce dernier a organisé, à l'échelle européenne, un vaste trafic de fausse monnaie. Après bien des péripéties, Tintin réussira-t-il à le démanteler ?",
+        "lieu": "Grande-Bretagne (Angleterre / Ecosse)",
+        "gps": "54.3151594,-1.9181532"
+    },
+    {
+        "numero": 8,
+        "titre": "Le Sceptre d'Ottokar",
+        "parution": 1939,
+        "image": "le-sceptre-d-ottokar.jpg",
+        "parutionEnCouleur": 1947,
+        "resume": "Le Sceptre d'Ottokar (1939) est un coup de force d'Hergé qui vise l'Allemagne dans cette aventure. La découverte d'une serviette oubliée sur un banc conduit Tintin à Prague, puis en Syldavie. Tintin va sauver la Syldavie et son Royaume d'un coup d'État fasciste.",
+        "lieu": "Tchécoslovaquie / Bordurie (Bulgarie) / Sylvanie (Albanie)",
+        "gps": "50.0874654,14.4212535"
+    },
+    {
+        "numero": 9,
+        "titre": "Le Crabe aux pinces d'or",
+        "parution": 1941,
+        "image": "le-crabe-aux-pinces-d-or.jpg",
+        "resume": "Le Crabe aux pinces d'or (1941) renoue avec l'aventure exotique. Celle-ci mène Tintin en Afrique du Nord. Il y déjoue les plans d'une bande de malfaiteurs qui dissimulaient de l'opium dans des boîtes de crabe. Avec l'apparition du Capitaine Haddock, nous découvrons un nouvel art de s'exprimer qui ne manque pas de piment et de sonorité. Parmi eux, l'un des plus inattendus est à coup sûr \"végétarien\".",
+        "lieu": "Maroc",
+        "gps": "31.1728205,-7.3362482"
+    },
+    {
+        "numero": 10,
+        "titre": "L'Étoile mystérieuse",
+        "parution": 1942,
+        "image": "l-etoile-mysterieuse.jpg",
+        "parutionEnCouleur": 1943,
+        "resume": "À bord d'un navire polaire dont le capitaine Haddock assure le commandement, Tintin et quelques savants européens partent pour l'océan Arctique, où s'est écrasé un aérolithe contenant un métal inconnu. Mais dès qu'ils apprennent qu'un autre navire fait également route vers l'étrange météorite, leur expédition se transforme en une véritable course contre la montre.",
+        "lieu": "Islande",
+        "gps": "64.9841821,-18.1059013"
+    },
+    {
+        "numero": 11,
+        "titre": "Le Secret de La Licorne",
+        "parution": 1943,
+        "image": "le-secret-de-la-licorne.jpg",
+        "resume": "En fouillant le grenier, le capitaine Haddock retrouve la trace de son ancêtre, le chevalier de Hadoque. Ce légendaire loup des mers s'est rendu célèbre par ses déboires avec le cruel pirate Rackham le Rouge. Un roman maritime de plus ? Certainement pas ! Car le chevalier devient le dépositaire d'un fabuleux trésor. Pour Tintin, Haddock et une série de malfrats, il s'agit de le retrouver. Mais les pistes et les énigmes se multiplient.",
+        "lieu": "Belgique",
+        "gps": "50.6402809,4.6667145"
+    },
+    {
+        "numero": 12,
+        "titre": "Le Trésor de Rackham le Rouge",
+        "parution": 1945,
+        "image": "le-tresor-de-rackham-le-rouge.jpg",
+        "resume": "Dans Le Secret de La Licorne (1943) et Le Trésor de Rackham le Rouge (1944) qui en est la suite, Tintin accompagne le capitaine Haddock sur les traces de son glorieux ancêtre, le chevalier François de Hadoque. Inventeur d'un sous-marin de poche en forme de requin, un certain Tryphon Tournesol contribue à la découverte du trésor, avant d'offrir au Capitaine le château de ses aïeux : Moulinsart.",
+        "lieu": "Belgique",
+        "gps": "50.6402809,4.6667145"
+    },
+    {
+        "numero": 13,
+        "titre": "Les Sept Boules de cristal",
+        "parution": 1948,
+        "image": "les-7-boules-de-cristal.jpg",
+        "resume": "Dans Les 7 Boules de cristal (1948), sept savants sont mystérieusement frappés de léthargie à leur retour d'une expédition dans les Andes. Le professeur Tournesol ayant disparu, Tintin et le Capitaine partent à sa recherche. Créé en 1929 par un certain Georges Remi, qui signait d'ores et déjà ses dessins du nom d'Hergé, Tintin connaîtra vingt-trois aventures dont, jusqu'à présent, le succès auprès des jeunes de 7 à 77 ans ne s'est jamais démenti.",
+        "lieu": "France",
+        "gps": "48.8588897,2.320041"
+    },
+    {
+        "numero": 14,
+        "titre": "Le Temple du Soleil",
+        "parution": 1949,
+        "image": "le-temple-du-soleil.jpg",
+        "resume": "Dans Le Temple du Soleil (1949), Tintin, Milou et le Capitaine Haddock s'envolent pour le Pérou à la recherche du professeur Tournesol, enlevé pour avoir involontairement commis un sacrilège qui le destine au châtiment suprême.",
+        "lieu": "Pérou",
+        "gps": "-6.8699697,-75.0458515"
+    },
+    {
+        "numero": 15,
+        "titre": "Tintin au pays de l'or noir",
+        "parution": 1950,
+        "image": "tintin-au-pays-de-l-or-noir.jpg",
+        "resume": "La guerre a brutalement interrompu la prépublication de cette aventure, le 9 mai 1940. À cette époque, ni le capitaine Haddock, ni le professeur Tournesol, ni le château de Moulinsart n'avaient rejoint la saga tintinesque. Huit ans plus tard, le Journal Tintin publie à nouveau cet épisode. Avec un humour génial, Hergé va réintégrer les absents de jadis dans la refonte de l'aventure qu'il entreprend d'achever. En 1950, l'album est publié. Mais le monde change, aussi en conformité avec l'actualité, une nouvelle version, quelque peu modifiée, sera proposée au public en 1971.",
+        "lieu": "Palestine / Khemed (Arabie Saoudite)",
+        "gps": "31.881464004516502,34.89497756957999"
+    },
+    {
+        "numero": 16,
+        "titre": "Objectif Lune",
+        "parution": 1953,
+        "image": "objectif-lune.jpg",
+        "resume": "Dans Objectif Lune (1953), le Professeur Tournesol invite Tintin et le Capitaine Haddock à le rejoindre en Syldavie où il travaille sur le plus grand projet du siècle : l'envoi d'une fusée sur la Lune. Le défi s'annonce palpitant, d'autant plus qu'au grand effarement du Capitaine, le Professeur leur suggère d'être du voyage !",
+        "lieu": "Syldavie (Albanie)",
+        "gps": "41.000028,19.9999619"
+    },
+    {
+        "numero": 17,
+        "titre": "On a marché sur la Lune",
+        "parution": 1954,
+        "image": "on-a-marche-sur-la-lune.jpg",
+        "resume": "Cet album, d'une exactitude prophétique, poursuit l'aventure lunaire initiée dans Objectif Lune. Hergé repousse sans cesse les limites scénaristiques et envoie cette fois ses héros dans l'espace. Si aujourd'hui aller dans l'espace est presque une routine, au début des années cinquante, imaginer un tel récit relevait de la science-fiction. En effet, il est important de se rappeler que l'album fut publié en 1954 alors qu'Armstrong ne fît le premier pas sur la Lune qu'en 1969.",
+        "lieu": "Syldavie (Albanie)",
+        "gps": "41.000028,19.9999619"
+    },
+    {
+        "numero": 18,
+        "titre": "L'Affaire Tournesol",
+        "parution": 1956,
+        "image": "l-affaire-tournesol.jpg",
+        "resume": "Une sensationnelle invention du professeur Tournesol commence par provoquer des catastrophes au château de Moulinsart : toutes les vitres volent en éclat, ainsi que la plupart des objets en verre ! Malheureusement, cette trouvaille ne rejoindra pas le rayon des farces et attrapes. Des espions tentent de s'emparer de Tournesol pour lui soutirer ses plans. Il apparaît que les kidnappeurs sont des Bordures, éternels ennemis des Syldaves et bien décidés à transformer l'invention de Tournesol en arme de destruction massive.",
+        "lieu": "Bordurie (Bulgarie) / Syldavie (Albanie)",
+        "gps": "42.6073975,25.4856617"
+    },
+    {
+        "numero": 19,
+        "titre": "Coke en stock",
+        "parution": 1958,
+        "image": "coke-en-stock.jpg",
+        "resume": "Coke en stock met en lumière les pratiques scandaleuses des esclavagistes des temps modernes. L'incrédulité du capitaine Haddock n'y changera rien. Le trafic d'êtres humains, cela existait encore au vingtième siècle. Au vingt-et-unième aussi, hélas. Comme pour bien d'autres questions graves, Hergé fut sensible à cette dramatique actualité et la transposa dans une fiction pleine de rebondissements.",
+        "lieu": "Khemed (Arabie Saoudite)",
+        "gps": "25.6242618,42.3528328"
+    },
+    {
+        "numero": 20,
+        "titre": "Tintin au Tibet",
+        "parution": 1960,
+        "image": "tintin-au-tibet.jpg",
+        "resume": "intin au Tibet (1960), pure histoire d'amitié, sans le moindre méchant, décrit la recherche désespérée de Tintin pour retrouver son ami, le jeune Chinois Tchang, qui se rendait en Europe à bord d'un avion de ligne qui s'est écrasé dans l'Himalaya. Ce récit pathétique, qui rompt avec le ton extraverti des épisodes précédents, démontre que la fidélité et l'espoir sont capables de vaincre tous les obstacles, et que les préjugés - en l'occurrence, à l'égard de l'\"abominable homme des neiges\" - sont bien souvent le fruit de l'ignorance.",
+        "lieu": "Tibet",
+        "gps": "29.8556443,90.8749807"
+    },
+    {
+        "numero": 21,
+        "titre": "Les Bijoux de la Castafiore",
+        "parution": 1963,
+        "image": "les-bijoux-de-la-castafiore.jpg",
+        "resume": "Dans Les Bijoux de la Castafiore (1963), les principaux protagonistes de la série se retrouvent à Moulinsart pour y vivre une véritable comédie classique à huis clos. Tournant résolument le dos à l'aventure pour s'attacher à la difficulté de la communication entre les êtres, un \"anti-récit\" truffé de malentendus et de quiproquos plus cocasses les uns que les autres.",
+        "lieu": "Belgique",
+        "gps": "50.6402809,4.6667145"
+    },
+    {
+        "numero": 22,
+        "titre": "Vol 714 pour Sydney",
+        "parution": 1968,
+        "image": "vol-714-pour-sydney.jpg",
+        "resume": "Vol 714 pour Sydney (1968), c'est le voyage interrompu, le détournement qui bouleverse tout, l'incursion de Tintin et de ses compagnons dans l'inconnu, dans un monde irréel animé par des phénomènes télépathiques, c'est le contact incroyable avec des extra-terrestres et la sortie d'un rêve... Mais en est-ce bien un ? Djakarta, dernière escale avant Sydney pour le Boeing du vol 714.",
+        "lieu": "Australie",
+        "gps": "-33.8698439,151.2082848"
+    },
+    {
+        "numero": 23,
+        "titre": "Tintin et les Picaros",
+        "parution": 1976,
+        "image": "tintin-et-les-picaros.jpg",
+        "resume": "Dernier album achevé du maître dont l’écriture et la mise en forme auront pris plus de dix ans. L'attente du lecteur se fait de plus en plus longue entre chaque nouvelle aventure. Sombre histoire de vengeance avec prise d’otages sur fond de guérilla, Tintin et les Picaros (1976) marque le retour de Tintin au San Theodoros, le lieu de L’Oreille Cassée. Hergé y risque un constat doux amer, tendant à faire croire que tout en ce monde n’est que mascarade.",
+        "lieu": "San Theodoros (Paraguay)",
+        "gps": "-23.3165935,-58.1693445"
+    },
+    {
+        "numero": 24,
+        "titre": "Tintin et l'Alph-Art",
+        "parution": 1986,
+        "image": "tintin-et-l-alph-art.jpg",
+        "resume": "Resté inachevé à la mort d’Hergé, en 1983, Tintin et l'Alph-Art (1986) devait décrire les milieux des sectes, et amener Tintin à s'immiscer dans un monde qu’affectionnait Georges Remi, dit Hergé : celui de l’art contemporain, celui de l’avant-garde... Si cet album posthume ne peut qu’évoquer la trame de ce récit suspendu, il est en revanche le témoignage de l’état pur de l’extraordinaire talent narratif et graphique du père de Tintin. Comme cette aventure, comme Tintin, nous aussi, lecteurs, nous restons magiquement suspendus à la plume d’Hergé.",
+        "lieu": "Italie",
+        "gps": "42.6384261,12.674297"
+    }
+]
